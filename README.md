@@ -1,1 +1,1 @@
-This is Git & Github class.
+This is a Git & Github class.
